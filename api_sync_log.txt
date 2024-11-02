@@ -1,0 +1,6 @@
+2024-11-02 12:16:31 - Product ID: 66
+Request Data: {"imgUrl":"https:\/\/s3.amazonaws.com\/www-inside-design\/uploads\/2018\/12\/The-product-of-you-810x810.png","uid":"66","title":"\u062a\u0633\u062a","link":"http:\/\/localhost\/wp\/product\/dfsd\/","description":"\u0627\u06cc\u0646 \u0628\u0627\u0632\u0645 \u062a\u0633\u062a\u0647"}
+Product synced successfully: {"id":"c0a5de7e-2ea6-46ff-9f49-6d8bec0b4ff8","payload":{"uid":"66","title":"تست","link":"http://localhost/wp/product/dfsd/","description":"این بازم تسته","imgUrl":"https://s3.amazonaws.com/www-inside-design/uploads/2018/12/The-product-of-you-810x810.png"},"vector":[]}
+2024-11-02 13:07:38 - Product ID: 67
+Request Data: {"imgUrl":"https:\/\/honarmenufile.storage.iran.liara.space\/juice.png","uid":"67","title":"\u0622\u0628\u0645\u06cc\u0648\u0647 \u0637\u0628\u06cc\u0639\u06cc","link":"http:\/\/localhost\/wp\/product\/%d8%a2%d8%a8%d9%85%db%8c%d9%88%d9%87-%d8%b7%d8%a8%db%8c%d8%b9%db%8c\/","description":"\u0622\u0628\u0645\u06cc\u0648\u0647 \u0637\u0628\u06cc\u063a\u06cc"}
+Product synced successfully: {"id":"319146c1-64bd-42cd-8149-1ec72a5df7f6","payload":{"uid":"67","title":"آبمیوه طبیعی","link":"http://localhost/wp/product/%d8%a2%d8%a8%d9%85%db%8c%d9%88%d9%87-%d8%b7%d8%a8%db%8c%d8%b9%db%8c/","description":"آبمیوه طبیغی","imgUrl":"https://honarmenufile.storage.iran.liara.space/juice.png"},"vector":[]}
